@@ -5,7 +5,7 @@ Exports all import/export data from a certain country in a given time frame (i.e
 ## Instructions (Ctrl + F "TODO")
 1. Set country_xpath and data_xpath and set the beginning of the file name.  
 2. Fill out the Datamyne username and password.  
-3. Set download path, starting and ending dates (format is 01/01/xx and 12/31/xx).   
+3. Set download path (where the files will be downloaded locally), starting and ending dates (format is 01/01/xx and 12/31/xx).
 4. Download all the data by running all the cells above this one, and then run only this cell until all files have been downloaded.  
 5. Run this cell to make sure you have correctly downloaded all the files.
 
