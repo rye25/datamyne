@@ -1,6 +1,6 @@
 # Webscraping Tool for Datamyne
 
-Exports all import/export data from a certain country in a given time frame (i.e. Colombia Imports 01/01/19 - 12/31-19) as Excel files containing 5000 records in each file. 
+Exports all import/export data from a certain country in a given time frame (i.e. Colombia Imports 01/01/19 - 12/31/19) as Excel files containing 5000 records in each file. 
 
 ## Instructions (Ctrl + F "TODO")
 1. Set country_xpath and data_xpath and set the beginning of the file name.  
